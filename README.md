@@ -1,1 +1,1 @@
-LAMP/lamp/lamp4.png
+lamp/LAMP/lamp4.png
