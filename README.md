@@ -1,1 +1,1 @@
-*TESTING
+kossidyke/lamp/LAMP/lamp4.png
