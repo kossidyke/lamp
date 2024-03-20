@@ -1,1 +1,1 @@
-lamp/lamp4.png
+![](lamp/lamp4.png)
