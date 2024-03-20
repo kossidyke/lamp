@@ -1,1 +1,1 @@
-kossidyke/lamp/LAMP/lamp4.png
+kossidyke/LAMP/lamp/lamp4.png
